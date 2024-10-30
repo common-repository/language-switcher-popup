@@ -1,0 +1,51 @@
+.popup-menu-button-container{
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+
+
+button#popup-settings-button{
+    background-color: transparent;
+    color: #000;
+    padding: 5px;
+    border: 0px;
+    display: flex;
+    align-items: center;
+
+
+}
+
+button#popup-settings-button:hover{
+  border: 0px;
+}
+
+button#popup-settings-button img{
+    max-width: 30px;
+}
+
+
+#language-globe-icon-outer {
+  width: 25px;
+  height: 25px;
+}
+
+
+.language-globe-icon {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1px;
+  vector-effect: non-scaling-stroke;
+}
+
+#lsp-button-lang-attribute {
+  font-size: 17px;
+  text-transform: uppercase;
+}
+
+#lsp-button-lang-icon {
+  margin-right: 5px;
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,12 @@
+#language-globe-icon-outer {
+  width: 25px;
+  height: 25px;
+}
+
+.language-globe-icon {
+  fill:none;
+  stroke: #000;
+  stroke-width: 1px;
+  padding: 10px;
+  vector-effect: non-scaling-stroke;
+}
